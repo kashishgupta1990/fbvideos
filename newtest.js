@@ -1,9 +1,11 @@
 const fbvid = require('./');
 
-const video = 'https://www.facebook.com/akshbaghla/videos/510025649412958/';
+const video = 'https://www.facebook.com/1946677218730515/videos/1961592127239024/UzpfSTE1ODM4Njk3Mjg1NTE3OTU6MjExNTM5ODEwMjA2NTYxOQ/';
+
+fbvid.high(video).then(vid => {
+    console.log(vid)
+});
 
 fbvid.low(video).then(vid => {
-    console.log(vid)
-    // => { url: 'https://video.fpat1-1.fna.fbcdn.net/...mp4?934&oe=5972F363' }
-
+	console.log(vid)
 });
