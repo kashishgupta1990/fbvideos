@@ -1,17 +1,11 @@
-<h1 align="center">
-<br>
-<img src="https://raw.githubusercontent.com/rishigiridotcom/rishigiri.com/835ef5231dc96ae7c751b1a35acc664986726b4b/github/fbvideos.png" width="250px">
-<br>
-<a href="https://travis-ci.org/CodeDotJS/fbvideos"><img src="https://travis-ci.org/CodeDotJS/fbvideos.svg?branch=master"></a> <img src="https://img.shields.io/badge/code_style-XO-5ed9c7.svg">
-<br>
-</h1>
+
 
 > :link: Easily extract downloadable link of publicly available videos on facebook.
 
 ## Install
 
 ```
-$ npm install --save fbvideos
+$ npm install --save fbvideos-fast
 ```
 
 ## Usage
@@ -51,14 +45,5 @@ __`link`__
 
 `Type :` `string`
 
-
-## Related
-
-
-- __[`facebookid`](https://github.com/CodeDotJS/facebookid)__ `:` `An api to find user id of any facebook user`
-- __[`acuter`](https://github.com/CodeDotJS/acuter)__ `:` `A simple wrapper for twitter media`
-
-## License
-
-MIT &copy; [Rishi Giri](http://rishigiri.ml)
-
+## Thanks to original other
+> :link: https://github.com/CodeDotJS/fbvideos

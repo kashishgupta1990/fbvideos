@@ -1,6 +1,6 @@
 {
-  "name": "fbvideos",
-  "version": "1.0.1",
+  "name": "fbvideos-fast",
+  "version": "1.0.0",
   "description": "Easily extract downloadable link of publicly available videos on facebook.",
   "main": "index.js",
   "engines": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CodeDotJS/fbvideos.git"
+    "url": "git+https://github.com/kashishgupta/fbvideos.git"
   },
   "keywords": [
     "facebook",
@@ -35,10 +35,10 @@
   "xo": {
     "esnext": true
   },
-  "author": "Rishi Giri <rushforlinux@gmail.com> (http://rishigiri.com)",
+  "author": "Kashish Gupta <kashishguptatech@gmail.com> (http://kashishgupta.in)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/CodeDotJS/fbvideos/issues"
+    "url": "https://github.com/kashishgupta1990/fbvideos/issues"
   },
-  "homepage": "https://github.com/CodeDotJS/fbvideos#readme"
+  "homepage": "https://github.com/kashishgupta1990/fbvideos#readme"
 }
